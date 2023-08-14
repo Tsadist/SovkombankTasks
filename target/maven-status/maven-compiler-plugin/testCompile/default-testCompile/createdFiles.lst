@@ -1,0 +1,5 @@
+com\cleanuri\tests\UrlShorteningTest.class
+com\cleanuri\JsonUtils.class
+com\cleanuri\models\TestDate.class
+com\cleanuri\tests\BaseTest.class
+com\cleanuri\models\ErrorValues.class

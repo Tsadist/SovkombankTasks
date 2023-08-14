@@ -1,0 +1,6 @@
+{
+  "url_is_empty": "API Error: URL is empty",
+  "url_after_sanitization": "API Error: After sanitization URL is empty",
+  "url_invalid" : "API Error: URL is invalid (check #1)",
+  "url_too_long" : "API Error: URL Too Long even for shortener services..."
+}
